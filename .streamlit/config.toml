@@ -1,0 +1,56 @@
+# Shared look for both modes. Pick Light / Dark / System from the app menu (⋮ → Settings).
+[theme]
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+headingFontWeights = [700, 650, 600, 600, 600, 600]
+baseRadius = "8px"
+buttonRadius = "8px"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#2a63d6"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F7F9"
+codeBackgroundColor = "#F2F3F5"
+textColor = "#0F172A"
+linkColor = "#2a63d6"
+borderColor = "#E3E5EA"
+blueColor = "#2a78d6"
+greenColor = "#1baf7a"
+orangeColor = "#eb6834"
+redColor = "#e34948"
+yellowColor = "#eda100"
+violetColor = "#6250d6"
+dataframeHeaderBackgroundColor = "#F6F7F9"
+
+[theme.light.sidebar]
+backgroundColor = "#F6F7F9"
+secondaryBackgroundColor = "#ECEEF2"
+
+[theme.dark]
+primaryColor = "#5b8def"
+backgroundColor = "#0F141B"
+secondaryBackgroundColor = "#18202B"
+codeBackgroundColor = "#18202B"
+textColor = "#E6EAF0"
+linkColor = "#7aa7f5"
+borderColor = "#2A3441"
+blueColor = "#3987e5"
+greenColor = "#199e70"
+orangeColor = "#d95926"
+redColor = "#e66767"
+yellowColor = "#c98500"
+violetColor = "#9085e9"
+dataframeHeaderBackgroundColor = "#18202B"
+
+[theme.dark.sidebar]
+backgroundColor = "#121922"
+secondaryBackgroundColor = "#1C2531"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
