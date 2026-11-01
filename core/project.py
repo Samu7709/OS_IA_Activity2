@@ -8,12 +8,12 @@ PROJECT = {
     "institute": "MIT Academy of Engineering",
     "year": 2026,
     # As listed in the team's reference repository (Viveksanap18/Deadlock).
-    "guide": "Dr. Vijaykumar P. Mantri",
+    "guide": "Dr. Neha Hajare",
     # (Name, PRN)
     "members": [
-        ("Sanskar Chandawar", "202401040137"),
-        ("Vivek Sanap", "202401040091"),
-        ("Vyankatesh Kulkarni", "202401040134"),
-        ("Omkar Vairagkar", "202401040045"),
+        ("Samarth Kadam", "202401040131"),
+        ("Hrishikesh Koshti", "202401040054"),
+        ("Devansh Agrawal", "202401040270"),
+        ("DHruvesh Biraris", "202401040239"),
     ],
 }
