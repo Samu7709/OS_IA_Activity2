@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 from core.project import PROJECT
-from core.resources import (MIME, READINGS, REVISION_NOTES, VIDEO_ATTRIBUTION, VIDEOS,
+from core.resources import (MIME, READINGS, REVISION_NOTES, VIDEOS,
                             list_class_materials)
 from core.ui import footer, page_header
 
