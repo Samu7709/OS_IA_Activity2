@@ -7,7 +7,7 @@ PROJECT = {
     "activity": "IA Assignment Activity 2",
     "institute": "MIT Academy of Engineering",
     "year": 2026,
-    # As listed in the team's reference repository (Viveksanap18/Deadlock).
+    
     "guide": "Dr. Neha Hajare",
     # (Name, PRN)
     "members": [
