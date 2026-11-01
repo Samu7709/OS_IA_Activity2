@@ -39,8 +39,7 @@ st.dataframe(videos, hide_index=True, width="stretch",
              column_config={"Link": st.column_config.LinkColumn(display_text="Open on YouTube")})
 pick = st.selectbox("Watch here", range(len(VIDEOS)), format_func=lambda i: f"{VIDEOS[i][3]}: {VIDEOS[i][0]}")
 st.video(VIDEOS[pick][2])
-st.caption(f"Videos are third-party content, shown via YouTube embeds and owned by their channels. "
-           f"{VIDEO_ATTRIBUTION}")
+st.caption(f"Videos are third-party content, shown via YouTube embeds and owned by their channels. ")
 
 # --- Reading --------------------------------------------------------------------------------------
 
