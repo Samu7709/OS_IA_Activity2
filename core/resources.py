@@ -77,9 +77,6 @@ VIDEOS = [
      "https://youtu.be/HP1JuTbJMN4", "Ignorance"),
 ]
 
-VIDEO_ATTRIBUTION = ("Video list curated by Vivek Sanap in the team's reference repository "
-                     "[Viveksanap18/Deadlock](https://github.com/Viveksanap18/Deadlock).")
-
 # (citation, url, what it covers)
 READINGS = [
     ("A. Silberschatz, P. B. Galvin, G. Gagne. Operating System Concepts, 10th ed., Wiley, 2018. Chapter 8: Deadlocks.",
