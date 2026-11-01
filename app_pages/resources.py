@@ -71,12 +71,9 @@ else:
 
 st.header("Attribution", divider="gray")
 st.markdown(
-    "- Algorithms, explanations, games and code in this dashboard are original to this project.\n"
-    "- Feature ideas (ignorance module, games, team page, video list) were taken from the team's earlier "
-    "prototype, [Viveksanap18/Deadlock](https://github.com/Viveksanap18/Deadlock). "
-    "No code was copied from it.\n"
+    "- Algorithms and explanations are based on Operating Systems concepts.\n"
     "- Textbook concepts follow Silberschatz, Galvin & Gagne, *Operating System Concepts*, 10th ed.\n"
-    "- Videos belong to their YouTube channels, named above."
+    "- Videos belong to their respective YouTube channels."
 )
 
 footer()
